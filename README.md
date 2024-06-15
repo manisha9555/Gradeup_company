@@ -10,7 +10,7 @@ Withdraw Money
 Request Balance
 Quit Program: Exit at any time.
 # How to Run
-Clone the Repository:gh repo clone manisha9555/Gradeup_company
+Clone the Repository:https://github.com/manisha9555/Gradeup_company.git
 
 # Usage
 Main Menu:
